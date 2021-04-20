@@ -9,7 +9,7 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Shams261&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shams261&layout=compact&theme=radical&align=center)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shams261&layout=compact&theme=radical)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shams261&theme=radical&hide_border=true"/>
 
