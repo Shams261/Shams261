@@ -2,10 +2,8 @@
 
 
 
-- 🔭 I’m currently working on <h3> Web Development</h3> :Web Development:
-- 🌱 I’m currently learning <h3>New Technology </h3> :technology:
+- 🔭 I’m currently working on <h3> Web Development</h3> 
+- 🌱 I’m currently learning <h3>New Technology </h3>
 - 💬 Ask me about <h3>Tools and Technology </h3>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ <h3>Eat</h3><h3>Code</h3><h3><sleep</h3>
 -->
