@@ -1,5 +1,9 @@
 <h1> Hallo Freunde,I'm Shams:) <img src ="https://media0.giphy.com/media/2FazhAHU2rNqOzEsg/200w.webp?cid=ecf05e47u3g68pdqkwbho4elu5kca9uv24ptgeylzpvnz94j&rid=200w.webp&ct=g" width="60"> </h1>
 
+<a href="https://www.linkedin.com/in/shams-tabrez-169829167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bnweakq0kSKy9hAcuZKbB5Q%3D%3D"><img alt="linkedin" title="linkedin" height="30" width="30" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/linkedin.png"></a>
+
+<a href="https://shams261.github.io/my-portfolio.github.io/"><img alt="portfolio" title="portfolio" height="30" width="30" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/portfolio.png"></a>
+
 
 
 - 🔭 I’m currently working on **Web Development**
