@@ -18,9 +18,10 @@
 
 <code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/rust.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/vim.png"></code>  
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/django.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/jquery.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/nodejs.png"></code>
 
