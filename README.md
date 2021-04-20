@@ -9,11 +9,11 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Shams261&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shams261&layout=compact)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shams261&count_private=true&show_icons=true&theme=merko)<a href="https://github.com/Shams261"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shams261&layout=compact&theme=radical"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatindhar&theme=radical&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shams261&layout=compact&theme=radical"/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shams261&theme=radical&hide_border=true"/>
 
 
