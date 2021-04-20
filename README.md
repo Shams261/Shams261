@@ -9,12 +9,18 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Shams261&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact&theme=radical)
-<a href="https://github.com/Shams261">
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shams261&layout=compact&theme=radical)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shams261&theme=radical&hide_border=true"/>
 
-##My Repos
 
-[![my-portfolio.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Shams261&repo=my-portfolio.github.io&show_owner=true)](https://github.com/Shams261/my-portfolio.github.io)
+**Languages and Tools:**  
+
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/vim.png"></code>  
 
