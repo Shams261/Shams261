@@ -2,7 +2,7 @@
 
 **connect me:**
 
-<a href="https://www.linkedin.com/in/shams-tabrez-169829167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bnweakq0kSKy9hAcuZKbB5Q%3D%3D" target = "_blank" ><img alt="linkedin" title="linkedin" height ="50" width="50" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/shams-tabrez-169829167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bnweakq0kSKy9hAcuZKbB5Q%3D%3D"><img alt="linkedin" title="linkedin" height ="50" width="50" src="https://raw.githubusercontent.com/Shams261/Shams261/master/assets/linkedin.png"></a>
 
 
 
