@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Machine Learning Project**
 - 🌱 I’m currently learning **New Technology**
 - 💬 Ask me about **Tools and Technology**
 - ⚡ ** Eat , Code , Sleep ** 🤭
