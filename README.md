@@ -1,4 +1,4 @@
-<h1> Hi,I'm Shams :) <img src ="https://media0.giphy.com/media/2FazhAHU2rNqOzEsg/200w.webp?cid=ecf05e47u3g68pdqkwbho4elu5kca9uv24ptgeylzpvnz94j&rid=200w.webp&ct=g![image](https://github.com/Shams261/Shams261/assets/56577910/9e11cefc-c5fd-47fb-9a21-6e905671cde8)
+<h1> Hi,I'm Shams :) <!img src ="https://media0.giphy.com/media/2FazhAHU2rNqOzEsg/200w.webp?cid=ecf05e47u3g68pdqkwbho4elu5kca9uv24ptgeylzpvnz94j&rid=200w.webp&ct=g![image](https://github.com/Shams261/Shams261/assets/56577910/9e11cefc-c5fd-47fb-9a21-6e905671cde8)
 " width="60"> </h1>
 
 **connect me:**
